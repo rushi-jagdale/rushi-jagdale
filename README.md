@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rushikesh jagdale
 - 👀 I’m interested in python and java programming
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning react and django Rest Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
