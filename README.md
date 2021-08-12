@@ -1,9 +1,8 @@
 - 👋 Hi, I’m rushikesh jagdale
 - 👀 I’m interested in python and java programming
-- 🌱 I’m currently looking for new opportunities in Web Development
+- 🌱 I’m currently working as python(ml) developer
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (rjcom99@gmail.com)
+-- 📫 How to reach me (rjcom99@gmail.com)
 
 <!---
 rushi-jagdale/rushi-jagdale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
